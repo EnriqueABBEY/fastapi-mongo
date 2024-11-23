@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Environnement virtuel
+.venv/
+env/
+venv/
+
+# Pytest
+.cache/
+*.cover
+*.log
+
+# Configuration de l'IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Fichiers de configuration
+*.env
+*.env.local
+*.env.production
+
+# Docker
+.docker/mongo_data
+
+# Dossiers de build
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Autres fichiers temporaires
+*.tmp
+*.bak
+*.swp
