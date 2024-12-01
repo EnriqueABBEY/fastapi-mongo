@@ -29,7 +29,7 @@ venv/
 
 # Docker
 .docker/mongo_data
-
+pg_data
 # Dossiers de build
 build/
 dist/
